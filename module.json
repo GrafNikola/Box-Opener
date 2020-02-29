@@ -1,0 +1,15 @@
+{
+    "name": "Box-Opener",
+    "options": {
+        "niceName": "Box-Opener",
+        "guiName": "Box-Opener",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 2
+    },
+    "author": "ZC / Owyn",
+    "description": "box opening script",
+    "servers": ["https://raw.githubusercontent.com/GrafNikola/Box-Opener/master/"],
+    "supportUrl": "https://github.com/GrafNikola/Box-Opener/issues",
+    "version": "87.05"
+}
