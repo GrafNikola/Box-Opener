@@ -2,6 +2,7 @@ Box-Opener
 ======
 
 original :https://github.com/tera-mod/Box-Opener
+
 Могут быть допущены ошибки перевода, поэтому пишите, поправим )
 
 Discord : ITunk#3556
